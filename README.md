@@ -79,7 +79,6 @@ trường `ANTHROPIC_API_KEY`). Không có key vẫn dùng được 4 tab còn l
 ├── app.py            # giao diện Streamlit + gọi Claude API
 ├── engine.py         # toàn bộ phần tính số + guardrail (hàm thuần, test được)
 ├── test_engine.py    # test: công thức tính tay, case ECOFFEE, guardrail
-├── AI_WORKFLOW.md    # AI làm gì, tôi kiểm chứng gì
 ├── docs/img/         # ảnh chụp app
 ├── requirements.txt
 └── .gitignore
