@@ -94,10 +94,6 @@ trường `ANTHROPIC_API_KEY`). Không có key vẫn dùng được 4 tab còn l
 - IRR bằng bisection trả về một nghiệm; dòng tiền đổi dấu nhiều lần có thể có nhiều IRR.
 - Guardrail kiểm **con số**, không kiểm **lập luận**: báo cáo vẫn cần người đọc lại.
 
-## AI được dùng ở đâu?
-
-Xem [`AI_WORKFLOW.md`](AI_WORKFLOW.md).
-
 ## Disclaimer
 
 Dự án phục vụ mục đích học tập. Không phải tư vấn đầu tư.
