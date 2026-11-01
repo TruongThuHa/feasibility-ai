@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Bí mật — KHÔNG BAO GIỜ commit API key
+.env
+.streamlit/secrets.toml
+
+# Báo cáo sinh ra khi chạy app
+feasibility_report*.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
