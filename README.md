@@ -1,4 +1,4 @@
-# 📊 feasibility-ai — AI thẩm định dự án đầu tư / phân tích khả thi
+# feasibility-ai — AI thẩm định dự án đầu tư / phân tích khả thi
 
 > **Code tính số · AI diễn giải.** Công cụ thẩm định dự án đầu tư (investment
 > feasibility) với lớp báo cáo AI — dự án cá nhân cho chương trình AI Intern,
