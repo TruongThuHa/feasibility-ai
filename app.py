@@ -1,5 +1,5 @@
 """
-feasibility-ai (ban copy-paste) — Tham dinh du an dau tu voi AI ho tro
+feasibility-ai — Thẩm định dự án đầu tư với AI hỗ trợ
 =======================================================================
 1 FILE DUY NHAT: engine tai chinh + Monte Carlo + tornado + Streamlit UI
 + lop bao cao Claude API.
