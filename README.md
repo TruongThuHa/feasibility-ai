@@ -1,4 +1,4 @@
-# 📊 feasibility-ai — AI thẩm định dự án đầu tư
+# feasibility-ai — AI thẩm định dự án đầu tư
 
 > **Code tính số · AI diễn giải · Guardrail kiểm chứng.** Công cụ thẩm định dự án
 > đầu tư (investment feasibility): tính NPV/IRR, lượng hóa rủi ro bằng Monte Carlo,
